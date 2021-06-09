@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="./css/styles01.css"/>
+   	<style type="text/css">
+	.auto-style1 {
+			}
+	.auto-style2 {
+		background-color: #DDEDD6;
+	}
+	.auto-style4 {
+		text-align: center;
+	}
+	.auto-style5 {
+		margin-top: 0px;
+	}
+	.auto-style6 {
+		border-width: 0px;
+	}
+	.auto-style7 {
+		font-size: large;
+	}
+	
+	.vertical-menu a {
+		background-color:#eee;
+		color: black;
+		display:block;
+		padding:14px;
+		text-decoration:none;
+	}
+	
+	.vertical-menu a:hover{
+	background-color:#4CAF50;
+	color:white;
+	font-size:20px;
+}
+
+	.vertical-menu a.active {
+	background-color:#4CAF50;
+	color:white;
+}
